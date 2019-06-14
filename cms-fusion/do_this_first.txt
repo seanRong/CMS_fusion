@@ -1,0 +1,3 @@
+HOW TO GET STUDENT BALANCE WORKING
+
+ALTER TABLE wp_wpsp_student ADD balance numeric(8,2)
